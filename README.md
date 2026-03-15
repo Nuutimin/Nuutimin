@@ -47,5 +47,6 @@ My background covers production development, quality management, automation engi
 `Remix` `React` `Node.js` `Shopify Admin API` `GraphQL` `Prisma` `PostgreSQL` `Railway` `Resend` `jsPDF`
 
 ---
-
-📬 minna@besttrendsforever.fi
+MN Applications — Finland's most interesting Shopify automation & integration engineering studio.
+🌐 mn-apps.fi
+📬 minna@mn-apps.fi
