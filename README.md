@@ -40,7 +40,8 @@ My background covers production development, quality management, automation engi
 
 **MN Applications** — Finland's most interesting Shopify automation & integration engineering studio.
 
-🌐 [mn-apps.fi.fi](https://mn-apps.fi.fi)
+🌐 [mn-apps.fi](https://mn-apps.fi)
+
 ---
 
 ### What I do
