@@ -10,8 +10,9 @@ Rakennan Shopify-kauppoihin älykkäitä automaatioita, integraatioita ja räät
 
 Taustani kattaa tuotannon kehittämisen, laadunhallinnan, automaatiosuunnittelun ja järjestelmäintegraatiot.
 
-MN Applications — Suomen kiinnostavin Shopify-automaatio- ja integraatioinsinööritoimisto.
-🌐 mn-apps.fi
+**MN Applications** — Suomen kiinnostavin Shopify-automaatio- ja integraatioinsinööritoimisto.
+ 
+🌐 [mn-apps.fi](https://mn-apps.fi)
 
 ---
 
@@ -37,8 +38,9 @@ I build smart automations, integrations, and custom Shopify apps that eliminate 
 
 My background covers production development, quality management, automation engineering, and system integrations.
 
-MN Applications — Finland's most interesting Shopify automation & integration engineering studio.
-🌐 mn-apps.fi
+**MN Applications** — Finland's most interesting Shopify automation & integration engineering studio.
+
+🌐 [mn-apps.fi.fi](https://mn-apps.fi.fi)
 ---
 
 ### What I do
