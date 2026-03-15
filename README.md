@@ -1,16 +1,51 @@
-## Hi there 👋
+# Minna Nuutinen — Shopify Automation Engineer
 
-<!--
-**Nuutimin/Nuutimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🇫🇮 Suomeksi** | [🇬🇧 In English](#in-english)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olen diplomi-insinööri, Lean Six Sigma -osaaja ja Shopify-kehittäjä.
+
+Rakennan Shopify-kauppoihin älykkäitä automaatioita, integraatioita ja räätälöityjä sovelluksia — jotka poistavat turhaa työtä ja tekevät liiketoiminnasta sujuvampaa. Lähestyn verkkokauppaa enemmän järjestelmänä kuin pelkkänä verkkosivuna: jos prosessi ei toimi, ongelma on usein järjestelmässä.
+
+Taustani kattaa tuotannon kehittämisen, laadunhallinnan, automaatiosuunnittelun ja järjestelmäintegraatiot.
+
+---
+
+### Mitä teen
+
+- 🔧 **Shopify Automation** — tilausten käsittely, asiakasviestintä, varastosaldot
+- 🧩 **Custom Shopify Apps** — ERP- ja CRM-integraatiot, räätälöidyt työnkulut
+- 📊 **Commerce Optimization** — Lean-ajattelu, prosessikartoitus, automaatiopotentiaalin tunnistaminen
+
+### Stack
+
+`Remix` `React` `Node.js` `Shopify Admin API` `GraphQL` `Prisma` `PostgreSQL` `Railway` `Resend` `jsPDF`
+
+---
+
+---
+
+## In English
+
+I'm an Master of Science (Tech), Lean Six Sigma practitioner, and Shopify developer based in Finland.
+
+I build smart automations, integrations, and custom Shopify apps that eliminate unnecessary manual work and make e-commerce operations run smoother. I approach online stores as systems rather than just websites — if a process isn't working, the problem is usually in the system.
+
+My background covers production development, quality management, automation engineering, and system integrations.
+
+---
+
+### What I do
+
+- 🔧 **Shopify Automation** — order processing, customer communication, inventory sync
+- 🧩 **Custom Shopify Apps** — ERP & CRM integrations, tailored workflows
+- 📊 **Commerce Optimization** — Lean thinking, process mapping, identifying automation potential
+
+### Stack
+
+`Remix` `React` `Node.js` `Shopify Admin API` `GraphQL` `Prisma` `PostgreSQL` `Railway` `Resend` `jsPDF`
+
+---
+
+📬 minna@besttrendsforever.fi
